@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+}
+
+.completed {
+  color: red;
+  text-decoration: line-through;
+}
