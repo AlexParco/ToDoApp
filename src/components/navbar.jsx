@@ -13,7 +13,6 @@ const Navbar = () => {
       position="fixed"
       w="100%"
       p="10px"
-      css={{ backdropFilter: 'blur(10px)' }}
       zIndex={1}
     >
       <ThemeButton/>
